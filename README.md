@@ -1,4 +1,4 @@
-algorithm-for-printing-screw-squares
+algorithm-for-printing-screw-squares, by Java
 ====================================
 This is a job interview question, and developed it with Java.
 The print out snap like below.Print in the order of 0-9,A-Z then a-z. Then repeat the process. 
